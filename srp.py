@@ -1,11 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov  1 23:01:42 2022
 
-#Principio de responsabilidad Ãºnica
+@author: cflorelu
+"""
 
-# - Una clase debe tener una sola razÃ³n para cambiar
-# - No debe cargarse con mÃºltiples responsabilidades y una sola responsabilidad no
+#Principio de responsabilidad única
+
+# - Una clase debe tener una sola razón para cambiar
+# - No debe cargarse con múltiples responsabilidades y una sola responsabilidad no
 #   debe distribuirse entre varias clases ni mezclarse con otras responsabilidades.
-# - La razÃ³n es que cuantos mÃ¡s cambios se soliciten en el futuro, mÃ¡s cambios 
-#   tendrÃ¡ que aplicar la clase.
+# - La razón es que cuantos más cambios se soliciten en el futuro, más cambios 
+#   tendrá que aplicar la clase.
 
 class Journal:
     """
