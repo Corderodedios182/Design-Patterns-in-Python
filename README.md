@@ -5,12 +5,12 @@
 Los patrones de diseño (design patterns) son soluciones habituales a problemas comunes en el diseño de software.
 Cada patrón es como un plano que se puede personalizar para resolver un problema de diseño particular de tu código.
 
-# - Ventajas de los patrones
+#Ventajas de los patrones
 
 Los patrones son un juego de herramientas que brindan soluciones a problemas habituales en el diseño de software.
 Definen un lenguaje común que ayuda a tu equipo a comunicarse con más eficiencia.
 
-# - Clasificación
+#Clasificación
 
 Los patrones de diseño varían en su complejidad, nivel de detalle y escala de aplicabilidad.
 Además, pueden clasificarse por su propósito y dividirse en tres grupos.
@@ -23,3 +23,4 @@ Como : Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.
 
 Los **patrones de comportamiento** se encargan de una comunicación efectiva y la asignación de responsabilidades entre objetos.
 Como : Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Obersver, State, Strategy, Template Method, Visitor.
+
